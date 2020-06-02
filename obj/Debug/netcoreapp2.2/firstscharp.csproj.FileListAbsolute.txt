@@ -1,0 +1,11 @@
+/Users/kenjilam/Coding/C#/fundamental/firstscharp/bin/Debug/netcoreapp2.2/firstscharp.deps.json
+/Users/kenjilam/Coding/C#/fundamental/firstscharp/bin/Debug/netcoreapp2.2/firstscharp.runtimeconfig.json
+/Users/kenjilam/Coding/C#/fundamental/firstscharp/bin/Debug/netcoreapp2.2/firstscharp.runtimeconfig.dev.json
+/Users/kenjilam/Coding/C#/fundamental/firstscharp/bin/Debug/netcoreapp2.2/firstscharp.dll
+/Users/kenjilam/Coding/C#/fundamental/firstscharp/bin/Debug/netcoreapp2.2/firstscharp.pdb
+/Users/kenjilam/Coding/C#/fundamental/firstscharp/obj/Debug/netcoreapp2.2/firstscharp.csprojAssemblyReference.cache
+/Users/kenjilam/Coding/C#/fundamental/firstscharp/obj/Debug/netcoreapp2.2/firstscharp.csproj.CoreCompileInputs.cache
+/Users/kenjilam/Coding/C#/fundamental/firstscharp/obj/Debug/netcoreapp2.2/firstscharp.AssemblyInfoInputs.cache
+/Users/kenjilam/Coding/C#/fundamental/firstscharp/obj/Debug/netcoreapp2.2/firstscharp.AssemblyInfo.cs
+/Users/kenjilam/Coding/C#/fundamental/firstscharp/obj/Debug/netcoreapp2.2/firstscharp.dll
+/Users/kenjilam/Coding/C#/fundamental/firstscharp/obj/Debug/netcoreapp2.2/firstscharp.pdb
