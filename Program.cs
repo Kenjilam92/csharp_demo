@@ -9,11 +9,17 @@ namespace firstscharp
             // Fundamental.Print1to255();
             // ThreeBasicArray.ThreeArray();
             // IceCream.flavors();
-            Dictionary<string,string> profile = new Dictionary<string, string>();
-            for (int i =0; i < ThreeBasicArray.ThreeArray().Length && i < IceCream.flavors().Count; i++)
+            // Dictionary.Create_dict();
+            foreach( object a in Object.objectList())
             {
-                profile.Add(ThreeBasicArray.ThreeArray()[i],IceCream.flavors()[i]);
-                Console.WriteLine($"{ThreeBasicArray.ThreeArray()[i]} : " + profile[ThreeBasicArray.ThreeArray()[i]]);
+                if ( a is int )
+                {
+                    Console.WriteLine($"this is an interger: {a}");
+                }
+                else if (a is string)
+                {
+                    Console.WriteLine($"This is a string: {a}");
+                }
             }
         }
     }
