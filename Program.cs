@@ -10,17 +10,10 @@ namespace firstscharp
             // ThreeBasicArray.ThreeArray();
             // IceCream.flavors();
             // Dictionary.Create_dict();
-            foreach( object a in Object.objectList())
-            {
-                if ( a is int )
-                {
-                    Console.WriteLine($"this is an interger: {a}");
-                }
-                else if (a is string)
-                {
-                    Console.WriteLine($"This is a string: {a}");
-                }
-            }
+            
+            // List<object> test = Object.objectList();
+            Object.analyzing(Object.objectList());
+
         }
     }
 }
